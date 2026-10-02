@@ -1,0 +1,146 @@
+{
+    "generated_by": "AnalyticsAgent",
+    "generation_method": "rule-based (deterministic, no LLM calls)",
+    "generated_at": "2026-09-29T19:44:02",
+    "total_users": 3,
+    "overall_funnel": {
+        "REGISTERED": 1,
+        "DOCUMENTS_UPLOADED": 0,
+        "ORIENTATION_SCHEDULED": 1,
+        "ORIENTATION_COMPLETED": 0,
+        "ENROLLED": 1
+    },
+    "funnel_by_state": {
+        "Bihar": {
+            "REGISTERED": 0,
+            "DOCUMENTS_UPLOADED": 0,
+            "ORIENTATION_SCHEDULED": 0,
+            "ORIENTATION_COMPLETED": 0,
+            "ENROLLED": 1
+        },
+        "Kerala": {
+            "REGISTERED": 1,
+            "DOCUMENTS_UPLOADED": 0,
+            "ORIENTATION_SCHEDULED": 0,
+            "ORIENTATION_COMPLETED": 0,
+            "ENROLLED": 0
+        },
+        "Maharashtra": {
+            "REGISTERED": 0,
+            "DOCUMENTS_UPLOADED": 0,
+            "ORIENTATION_SCHEDULED": 1,
+            "ORIENTATION_COMPLETED": 0,
+            "ENROLLED": 0
+        }
+    },
+    "funnel_by_cluster": {
+        "3": {
+            "REGISTERED": 0,
+            "DOCUMENTS_UPLOADED": 0,
+            "ORIENTATION_SCHEDULED": 0,
+            "ORIENTATION_COMPLETED": 0,
+            "ENROLLED": 1
+        },
+        "0": {
+            "REGISTERED": 1,
+            "DOCUMENTS_UPLOADED": 0,
+            "ORIENTATION_SCHEDULED": 0,
+            "ORIENTATION_COMPLETED": 0,
+            "ENROLLED": 0
+        },
+        "2": {
+            "REGISTERED": 0,
+            "DOCUMENTS_UPLOADED": 0,
+            "ORIENTATION_SCHEDULED": 1,
+            "ORIENTATION_COMPLETED": 0,
+            "ENROLLED": 0
+        }
+    },
+    "conversion_rates_by_state": {
+        "Bihar": {
+            "total_registered": 1,
+            "enrolled": 1,
+            "conversion_rate_pct": 100.0
+        },
+        "Kerala": {
+            "total_registered": 1,
+            "enrolled": 0,
+            "conversion_rate_pct": 0.0
+        },
+        "Maharashtra": {
+            "total_registered": 1,
+            "enrolled": 0,
+            "conversion_rate_pct": 0.0
+        }
+    },
+    "dropout_risk_by_state": {
+        "Bihar": {
+            "active_users": 1,
+            "stuck_users": 0,
+            "dropout_risk_pct": 0.0
+        },
+        "Kerala": {
+            "active_users": 1,
+            "stuck_users": 1,
+            "dropout_risk_pct": 100.0
+        },
+        "Maharashtra": {
+            "active_users": 1,
+            "stuck_users": 1,
+            "dropout_risk_pct": 100.0
+        }
+    },
+    "stuck_users_detail": [
+        {
+            "user_id": 2,
+            "name": "Rahul Menon",
+            "state": "Kerala",
+            "stage": "REGISTERED",
+            "days_stuck": 83
+        },
+        {
+            "user_id": 3,
+            "name": "Meera Joshi",
+            "state": "Maharashtra",
+            "stage": "ORIENTATION_SCHEDULED",
+            "days_stuck": 82
+        }
+    ],
+    "faq_analytics": {
+        "total_faq_questions": 2,
+        "matched": 1,
+        "unmatched": 1,
+        "match_rate_pct": 50.0
+    },
+    "reminder_stats": {
+        "total_reminders_sent": 2,
+        "reminders_by_stage": {
+            "REGISTERED": 1,
+            "ORIENTATION_SCHEDULED": 1
+        }
+    },
+    "strategy_flags": [
+        {
+            "type": "HIGH_DROPOUT",
+            "state": "Kerala",
+            "cluster": 0,
+            "persona": "Skilling Active but Employment Gap",
+            "dropout_risk_pct": 100.0,
+            "recommendation": "Kerala has 100.0% of active users stuck without progress. Consider increasing reminder frequency or reviewing whether the channels for this persona (Skilling Active but Employment Gap) match actual usage."
+        },
+        {
+            "type": "HIGH_DROPOUT",
+            "state": "Maharashtra",
+            "cluster": 2,
+            "persona": "Highly Educated Urban Workforce",
+            "dropout_risk_pct": 100.0,
+            "recommendation": "Maharashtra has 100.0% of active users stuck without progress. Consider increasing reminder frequency or reviewing whether the channels for this persona (Highly Educated Urban Workforce) match actual usage."
+        },
+        {
+            "type": "FAQ_KNOWLEDGE_GAP",
+            "match_rate_pct": 50.0,
+            "unmatched_count": 1,
+            "recommendation": "Only 50.0% of FAQ questions matched the knowledge base. Review unmatched questions in the activity log and expand FAQ_KNOWLEDGE_BASE in enrollment_config.py."
+        }
+    ]
+}

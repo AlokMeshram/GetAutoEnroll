@@ -1,0 +1,453 @@
+{
+    "generated_by": "CampaignStrategyAgent",
+    "model": "gemini-2.5-flash",
+    "state_count": 15,
+    "campaigns": {
+        "Kerala": {
+            "campaign_summary": "The Kerala Career Bridge Initiative is designed to transform the state's high skilling participation into tangible employment outcomes. Recognizing the 94% literacy rate and the high PMKVY enrollment, this campaign focuses on 'Finishing Schools' and direct industry-to-candidate matching to close the 7.2% unemployment gap.",
+            "campaign_objective": "To bridge the disconnect between high certification rates and workforce entry by providing industry-aligned placement programs and advanced technical training for the 23.59% youth population.",
+            "target_persona": "Skilling Active but Employment Gap",
+            "campaign_priority": "Medium",
+            "communication_channels": [
+                "WhatsApp",
+                "Email",
+                "Skill Workshops"
+            ],
+            "campaign_duration": "16 Weeks",
+            "communication_frequency": "Three times weekly via digital channels; monthly localized physical workshops.",
+            "campaign_phases": {
+                "phase_1": "Skill Audit & Validation: Utilizing WhatsApp and Email to identify youth with existing PMKVY certifications and assessing their current industry readiness.",
+                "phase_2": "Industry-Led Finishing Schools: Conducting intensive Skill Workshops focused on high-demand technical niches that align with Kerala's urban economic structure.",
+                "phase_3": "Placement & Employer Connect: Facilitating direct recruitment drives and virtual job fairs to match the validated talent pool with specific industry needs."
+            },
+            "marketing_message": "You are already skilled; now get hired. We turn your certifications into a career through direct industry connections and advanced finishing programs tailored for Kerala's brightest.",
+            "KPIs": [
+                "Placement Conversion Rate of PMKVY-certified candidates",
+                "Workshop attendance and completion rates",
+                "Number of active employer partnerships established in the region"
+            ],
+            "expected_outcomes": [
+                "Reduction in the state's unemployment rate among the youth demographic",
+                "Increased registration in IAC's advanced career-readiness modules",
+                "Establishment of a localized talent-to-employer pipeline that bypasses traditional job search hurdles"
+            ]
+        },
+        "Andhra Pradesh": {
+            "campaign_summary": "The 'Grama-to-Industry' initiative focuses on bridging the gap between the state's high vocational training (PMKVY) success and formal industrial employment. By leveraging the 28.4% youth population and existing training infrastructure, the campaign uses hyper-local community networks to drive IAC registrations among rural youth.",
+            "campaign_objective": "To convert PMKVY-certified individuals into IAC-registered students and facilitate their transition into formal industrial roles through decentralized skill mapping.",
+            "target_persona": "Rural youth aged 18-35 with basic vocational training and a desire for stable industrial employment.",
+            "campaign_priority": "Medium",
+            "communication_channels": [
+                "WhatsApp",
+                "SMS",
+                "Community Meetings"
+            ],
+            "campaign_duration": "12 Weeks",
+            "communication_frequency": "Three times weekly via digital channels; bi-weekly community town halls.",
+            "campaign_phases": {
+                "phase_1": "Awareness: Broadcasting success stories of local PMKVY graduates who joined IAC via WhatsApp and SMS.",
+                "phase_2": "Engagement: Organizing 'Skill Sabhas' in rural clusters to demonstrate IAC’s career mapping tools.",
+                "phase_3": "Conversion: On-the-spot registration drives at community centers for specialized industry-readiness modules."
+            },
+            "marketing_message": "Take your vocational training to the next level. Join IAC to turn your skills into a secure industrial career right here in Andhra Pradesh.",
+            "KPIs": [
+                "Number of rural youth registered from high PMKVY-density districts",
+                "Attendance rate at Community Meeting 'Skill Sabhas'",
+                "Conversion rate of PMKVY certificate holders to IAC program participants"
+            ],
+            "expected_outcomes": [
+                "15% increase in IAC registrations from non-urban Andhra Pradesh districts",
+                "Establishment of 50 community-led IAC referral nodes",
+                "Improved industry placement rate for vocational trainees"
+            ]
+        },
+        "Assam": {
+            "campaign_summary": "The 'Assam Career Bridge' campaign targets the exceptionally high PMKVY enrollment (434.3) to create a structured pipeline from rural training centers to urban industrial hubs. It addresses the 14.1% low urbanization by bringing career counseling directly to the community level.",
+            "campaign_objective": "To capitalize on high vocational uptake by enrolling 20,000+ youth into IAC’s advanced career development programs within the quarter.",
+            "target_persona": "Vocational trainees in rural Assam looking for a pathway to formal sector jobs in emerging industrial zones.",
+            "campaign_priority": "Medium",
+            "communication_channels": [
+                "WhatsApp",
+                "SMS",
+                "Community Meetings"
+            ],
+            "campaign_duration": "14 Weeks",
+            "communication_frequency": "Daily SMS alerts for local opportunities; weekly WhatsApp newsletters; monthly regional summits.",
+            "campaign_phases": {
+                "phase_1": "Mobilization: Utilizing SMS to reach PMKVY alumni databases with invitations to IAC orientation.",
+                "phase_2": "Education: Community meetings focused on explaining the 'Rural-to-Urban' employment pipeline and IAC's role.",
+                "phase_3": "Placement Readiness: Intensive WhatsApp-based workshops on soft skills and interview preparation for IAC members."
+            },
+            "marketing_message": "Your PMKVY certificate is just the beginning. Let IAC bridge the gap between your rural home and your future industrial career.",
+            "KPIs": [
+                "Total registrations from PMKVY alumni",
+                "Engagement levels in WhatsApp-based career workshops",
+                "Number of youth opting for the 'Rural-to-Urban' transition support module"
+            ],
+            "expected_outcomes": [
+                "Formalization of career paths for 10,000+ rural youth",
+                "Increased awareness of IAC programs in high-density rural districts",
+                "Reduction in the skill-to-employment gap for certified trainees"
+            ]
+        },
+        "Gujarat": {
+            "campaign_summary": "The 'Gujarat Industrial Excellence' campaign leverages the state's 1.1% unemployment rate to focus on 'up-skilling' rather than 'job-seeking.' It targets the 42.6% urban population to meet high-end technical standards required by the state's robust industrial framework.",
+            "campaign_objective": "To enhance the quality of the existing workforce by enrolling youth into IAC’s specialized technical certification programs to meet global industry standards.",
+            "target_persona": "Urban and semi-urban youth currently in the workforce or recently trained, seeking high-end technical specialization.",
+            "campaign_priority": "Medium",
+            "communication_channels": [
+                "WhatsApp",
+                "SMS",
+                "Community Meetings"
+            ],
+            "campaign_duration": "10 Weeks",
+            "communication_frequency": "Bi-weekly WhatsApp updates on industry trends; targeted SMS for certification deadlines.",
+            "campaign_phases": {
+                "phase_1": "Industry Alignment: Digital campaign highlighting the gap between basic certification and global industry requirements.",
+                "phase_2": "Skill Audits: Community-level 'Skill Check' meetings to help youth identify their next level of growth.",
+                "phase_3": "Certification Drive: Streamlined registration for IAC’s industry-endorsed advanced modules."
+            },
+            "marketing_message": "Don't just be employed—be an industry leader. Upgrade your skills with IAC to match Gujarat’s global industrial standards.",
+            "KPIs": [
+                "Enrollment numbers in advanced technical modules",
+                "Percentage of urban youth participating in IAC skill audits",
+                "Feedback scores from industrial partners on IAC-certified candidates"
+            ],
+            "expected_outcomes": [
+                "Higher penetration of IAC certifications in urban industrial clusters",
+                "Improved quality of skill certification among PMKVY graduates",
+                "Stronger ties between IAC and Gujarat’s manufacturing sector"
+            ]
+        },
+        "Madhya Pradesh": {
+            "campaign_summary": "The 'MP Kaushal Shakti' campaign focuses on formalizing the state's active but largely informal workforce. With a 0.9% unemployment rate and 27.49% youth population, the strategy uses a mobile-first approach to improve literacy-linked productivity and career formalization.",
+            "campaign_objective": "To transition youth from informal labor to formal industrial roles by improving literacy-linked technical skills and IAC program participation.",
+            "target_persona": "Youth in informal or agricultural sectors with basic vocational training (PMKVY) seeking professional growth and formal benefits.",
+            "campaign_priority": "Medium",
+            "communication_channels": [
+                "WhatsApp",
+                "SMS",
+                "Community Meetings"
+            ],
+            "campaign_duration": "16 Weeks",
+            "communication_frequency": "Regular WhatsApp video snippets for low-literacy engagement; SMS for direct registration links.",
+            "campaign_phases": {
+                "phase_1": "Outreach: Mobile-first video campaign explaining the benefits of formal employment and IAC registration.",
+                "phase_2": "Localization: Community meetings in low-urbanization districts to provide hands-on registration assistance.",
+                "phase_3": "Onboarding: Launching 'Literacy-to-Skill' bridge courses for IAC members to ensure high-skill adoption."
+            },
+            "marketing_message": "Your hard work deserves a formal career. Join IAC to move from the field to the factory with the right skills and certificates.",
+            "KPIs": [
+                "Growth in IAC registrations from rural Madhya Pradesh",
+                "Completion rate of 'Literacy-to-Skill' bridge modules",
+                "Number of informal workers transitioning to formal sector roles via IAC"
+            ],
+            "expected_outcomes": [
+                "Increased formalization of the youth workforce in MP",
+                "Higher adoption of IAC programs among 18-25 year olds",
+                "Improved productivity metrics for IAC-trained candidates in local industries"
+            ]
+        },
+        "Odisha": {
+            "campaign_summary": "The 'Odisha Skill-to-Career Bridge' campaign leverages the state's exceptional PMKVY momentum to transition rural youth from basic vocational training into high-value industrial roles through a decentralized hybrid model.",
+            "campaign_objective": "To enroll 15,000 vocational trainees into IAC’s advanced certification programs and facilitate 5,000 industry placements within the first year.",
+            "target_persona": "Rural youth with existing PMKVY certifications seeking stable industrial employment.",
+            "campaign_priority": "Medium",
+            "communication_channels": [
+                "WhatsApp",
+                "SMS",
+                "Community Meetings"
+            ],
+            "campaign_duration": "6 Months",
+            "communication_frequency": "Bi-weekly WhatsApp updates and monthly community town halls.",
+            "campaign_phases": {
+                "phase_1": "Awareness: SMS and WhatsApp broadcast to PMKVY graduates highlighting IAC’s career-advancement modules.",
+                "phase_2": "Engagement: Grassroots community meetings in rural blocks to demonstrate the value of IAC’s industry-aligned curriculum.",
+                "phase_3": "Conversion: Direct enrollment drives at local community centers with on-the-spot career counseling."
+            },
+            "marketing_message": "Odisha's skills, IAC's opportunities: Take the next step from vocational training to a professional career.",
+            "KPIs": [
+                "Registration rate from rural blocks",
+                "Conversion rate of PMKVY graduates to IAC programs",
+                "Attendance at community-led career seminars"
+            ],
+            "expected_outcomes": [
+                "Increased awareness of IAC in rural Odisha",
+                "Higher enrollment in advanced technical modules",
+                "Strengthened partnerships with local community leaders"
+            ]
+        },
+        "Rajasthan": {
+            "campaign_summary": "The 'Marudhara Kaushal Shakti' initiative focuses on a hyper-local, visual-first engagement strategy to overcome literacy barriers and connect Rajasthan's vast youth population with industrial placements.",
+            "campaign_objective": "To mobilize 20,000 youth across low-density regions for skill-gap assessments and enrollment in mobile-accessible career training.",
+            "target_persona": "Youth in low-density rural areas with high vocational interest but limited access to urban centers.",
+            "campaign_priority": "Medium",
+            "communication_channels": [
+                "WhatsApp",
+                "SMS",
+                "Community Meetings"
+            ],
+            "campaign_duration": "8 Months",
+            "communication_frequency": "Weekly SMS alerts and quarterly mobile-van community workshops.",
+            "campaign_phases": {
+                "phase_1": "Outreach: Visual-heavy WhatsApp campaigns using infographics and short videos to explain career benefits.",
+                "phase_2": "Mobilization: Organizing 'Kaushal Chaupals' (Community Meetings) to build trust and provide physical touchpoints.",
+                "phase_3": "Placement: Linking trained candidates with local industrial hubs through IAC-hosted job fairs."
+            },
+            "marketing_message": "Empowering Rajasthan's youth: Turn your training into a career with IAC's mobile-first learning and local job links.",
+            "KPIs": [
+                "Number of youth reached via mobile-first content",
+                "Participation rates in Kaushal Chaupals",
+                "Placement rate in local industrial sectors"
+            ],
+            "expected_outcomes": [
+                "Overcoming literacy barriers through visual communication",
+                "Improved industrial readiness of rural youth",
+                "Reduced migration for entry-level industrial jobs"
+            ]
+        },
+        "Telangana": {
+            "campaign_summary": "The 'Yuva Pragathi Patham' campaign aims to bridge the gap between Telangana's high youth demographic and its expanding industrial sector by aligning academic output with practical industry needs.",
+            "campaign_objective": "To register 18,000 students into IAC’s industry-integrated programs, focusing on balancing urban growth with rural talent inclusion.",
+            "target_persona": "Urban and semi-urban youth seeking to translate vocational training into high-growth industrial careers.",
+            "campaign_priority": "Medium",
+            "communication_channels": [
+                "WhatsApp",
+                "SMS",
+                "Community Meetings"
+            ],
+            "campaign_duration": "5 Months",
+            "communication_frequency": "Three times weekly digital engagement and bi-monthly urban-rural bridge meetings.",
+            "campaign_phases": {
+                "phase_1": "Integration: Digital push via WhatsApp focusing on the 'Industry-Ready' certification for current vocational students.",
+                "phase_2": "Validation: Community meetings featuring success stories of local youth who transitioned to high-growth sectors.",
+                "phase_3": "Execution: Launching hybrid training centers that combine digital theory with practical community-based labs."
+            },
+            "marketing_message": "Telangana's Future is You: IAC bridges the gap between your skills and the state's industrial growth.",
+            "KPIs": [
+                "Enrollment growth in urban-fringe areas",
+                "Industry placement rate for IAC certified candidates",
+                "User engagement rate on WhatsApp training modules"
+            ],
+            "expected_outcomes": [
+                "Better alignment of youth skills with Telangana's industrial demand",
+                "Increased participation from semi-urban demographics",
+                "Reduction in the local youth unemployment rate"
+            ]
+        },
+        "Karnataka": {
+            "campaign_summary": "The 'Tech-Edge Specialization' campaign targets Karnataka's 50.78% urban population, focusing on high-value professional growth to maintain a competitive advantage in a state with a low 2.7% unemployment rate.",
+            "campaign_objective": "To drive enrollment in niche, high-end industry certifications that differentiate the 28.89% youth demographic in a saturated tech market.",
+            "target_persona": "Highly Educated Urban Workforce",
+            "campaign_priority": "Low",
+            "communication_channels": [
+                "WhatsApp",
+                "Email",
+                "LinkedIn",
+                "Career Webinars"
+            ],
+            "campaign_duration": "12 Weeks",
+            "communication_frequency": "Bi-weekly professional insights and monthly webinars",
+            "campaign_phases": {
+                "phase_1": "Awareness: LinkedIn-led thought leadership pieces highlighting the need for specialization despite the 73.79% PMKVY success rate.",
+                "phase_2": "Engagement: Career Webinars focusing on 'Future-Proofing' roles in high-density urban tech hubs.",
+                "phase_3": "Conversion: Personalized Email and WhatsApp invitations for advanced industry-specific masterclasses."
+            },
+            "marketing_message": "Beyond the Basics: Secure your place in Karnataka's elite 2.7% with IAC's high-value professional specializations.",
+            "KPIs": [
+                "Registration rate for advanced webinars",
+                "LinkedIn engagement rate among urban professionals",
+                "Conversion rate from PMKVY graduates to IAC advanced programs"
+            ],
+            "expected_outcomes": [
+                "Increased awareness of IAC as a premium upskilling partner",
+                "Steady pipeline of high-quality registrations from urban tech hubs",
+                "Enhanced professional networking within the Karnataka youth demographic"
+            ]
+        },
+        "Maharashtra": {
+            "campaign_summary": "The 'Mastery & Certification' initiative leverages Maharashtra's 82.34% literacy rate and 110.64% PMKVY enrollment to offer sophisticated, formal skill validation for the urban workforce.",
+            "campaign_objective": "To integrate Maharashtra's elite urban talent into the IAC ecosystem through high-quality, low-intensity professional networking and certification programs.",
+            "target_persona": "Highly Educated Urban Workforce",
+            "campaign_priority": "Low",
+            "communication_channels": [
+                "WhatsApp",
+                "Email",
+                "LinkedIn",
+                "Career Webinars"
+            ],
+            "campaign_duration": "16 Weeks",
+            "communication_frequency": "Weekly LinkedIn updates and bi-monthly deep-dive emails",
+            "campaign_phases": {
+                "phase_1": "Discovery: Digital showcase of IAC's alignment with Maharashtra's robust 82.34% literacy and formal certification culture.",
+                "phase_2": "Validation: Webinars featuring industry leaders discussing the transition from general skills to elite professional mastery.",
+                "phase_3": "Retention: Exclusive WhatsApp groups for peer-to-peer networking among the 45.22% urban professional base."
+            },
+            "marketing_message": "Validate Your Expertise: Join the ranks of Maharashtra's most qualified professionals with IAC's elite certification pathways.",
+            "KPIs": [
+                "Enrollment numbers for professional certification tracks",
+                "Email open rates for industry-specific whitepapers",
+                "Growth in LinkedIn community followers from Maharashtra urban centers"
+            ],
+            "expected_outcomes": [
+                "Strengthened brand authority among highly literate professionals",
+                "High retention rate of urban learners in the IAC ecosystem",
+                "Successful positioning of IAC as a bridge to high-tier professional roles"
+            ]
+        },
+        "Tamil Nadu": {
+            "campaign_summary": "The 'Industrial Leadership' campaign addresses the high population density (555.0) of Tamil Nadu by offering niche certifications that allow the 48.4% urban workforce to stand out in a stable market.",
+            "campaign_objective": "To convert the state's high engagement with vocational training (178.52% PMKVY rate) into participation in advanced IAC career development programs.",
+            "target_persona": "Highly Educated Urban Workforce",
+            "campaign_priority": "Low",
+            "communication_channels": [
+                "WhatsApp",
+                "Email",
+                "LinkedIn",
+                "Career Webinars"
+            ],
+            "campaign_duration": "10 Weeks",
+            "communication_frequency": "Targeted WhatsApp alerts and monthly high-impact webinars",
+            "campaign_phases": {
+                "phase_1": "Positioning: Highlighting IAC as the next step for the 178.52% PMKVY-certified workforce to achieve leadership roles.",
+                "phase_2": "Education: Webinars focused on high-tech and niche industry shifts to combat sector saturation.",
+                "phase_3": "Action: Direct LinkedIn outreach offering personalized career mapping for the 26.79% youth demographic."
+            },
+            "marketing_message": "Stand Out in the Crowd: Transform your vocational foundation into industry leadership in Tamil Nadu's competitive urban landscape.",
+            "KPIs": [
+                "Number of career mapping sessions booked",
+                "Webinar attendance from the 26.79% youth segment",
+                "Click-through rates on WhatsApp-based program brochures"
+            ],
+            "expected_outcomes": [
+                "Increased enrollment in high-tech niche certifications",
+                "Effective differentiation of IAC learners in high-density job markets",
+                "Sustained engagement with Tamil Nadu's mature vocational ecosystem"
+            ]
+        },
+        "Bihar": {
+            "campaign_summary": "The 'Gramin Pragati Abhiyan' is a grassroots-led mobilization initiative designed for Bihar's high-density rural landscape. Recognizing the 61.8% literacy rate, the campaign replaces text-heavy content with visual storytelling and audio-visual messaging to transition the 93.55% PMKVY-successful youth into formal industrial roles.",
+            "campaign_objective": "To mobilize 100,000 rural youth for IAC career programs by leveraging high population density and existing vocational success rates.",
+            "target_persona": "High Priority Rural Youth (Cluster 3)",
+            "campaign_priority": "High",
+            "communication_channels": [
+                "SMS",
+                "WhatsApp",
+                "Community Champions",
+                "Posters",
+                "Village Awareness Drives"
+            ],
+            "campaign_duration": "12 Weeks",
+            "communication_frequency": "Thrice weekly via digital channels; Weekly physical village meets.",
+            "campaign_phases": {
+                "phase_1": "Awareness: Launching 'Sahi Hunar, Sahi Naukri' posters and audio-visual WhatsApp clips featuring local success stories to overcome literacy barriers.",
+                "phase_2": "Engagement: Deployment of Community Champions in high-density clusters (1102 per sq km) to conduct on-spot registrations and skill assessments.",
+                "phase_3": "Conversion: Organizing village-level 'Industrial Entry' drives to bridge the gap between PMKVY certification and IAC industrial placement."
+            },
+            "marketing_message": "Bihar ke yuva, ab hunar se milega pakka rozgar. IAC ke saath judiye aur apne PMKVY certificate ko factory ki naukri mein badaliye.",
+            "KPIs": [
+                "Number of registrations from rural blocks",
+                "Attendance at Village Awareness Drives",
+                "Conversion rate of PMKVY certificate holders to IAC programs"
+            ],
+            "expected_outcomes": [
+                "Increased awareness of formal industrial career paths in rural Bihar",
+                "High enrollment from the 24.22% youth demographic",
+                "Successful transition of vocational trainees to industrial apprenticeships"
+            ]
+        },
+        "Jharkhand": {
+            "campaign_summary": "The 'Jharkhand Kaushal Setu' campaign focuses on a hyper-local engagement model to bridge the gap between the state's 101.27% PMKVY enrollment and formal employment. Given the lower population density (414.0), the strategy relies heavily on mobile Community Champions to reach remote rural youth.",
+            "campaign_objective": "To establish a direct recruitment pipeline for the 26.33% youth population, converting vocational training into sustainable industrial careers.",
+            "target_persona": "High Priority Rural Youth (Cluster 3)",
+            "campaign_priority": "High",
+            "communication_channels": [
+                "SMS",
+                "WhatsApp",
+                "Community Champions",
+                "Posters",
+                "Village Awareness Drives"
+            ],
+            "campaign_duration": "16 Weeks",
+            "communication_frequency": "Bi-weekly SMS alerts; Fortnightly Community Champion visits.",
+            "campaign_phases": {
+                "phase_1": "Localization: Developing vernacular (Tribal/Regional) audio content for WhatsApp to reach the 66.41% literate population effectively.",
+                "phase_2": "Mobilization: Utilizing 'Skill Vans' and Community Champions to navigate rural logistics and provide hands-on registration assistance.",
+                "phase_3": "Placement: Hosting localized career counseling sessions to connect active rural workers with formal industrial hubs."
+            },
+            "marketing_message": "Jharkhand ke honhaar yuvaon ke liye, prashikshan se pragati tak ka rasta. IAC ke saath judiye aur apne hunar ko naya aayam dijiye.",
+            "KPIs": [
+                "Reach in remote rural districts",
+                "Percentage of PMKVY alumni registered with IAC",
+                "Number of Community Champion-led sign-ups"
+            ],
+            "expected_outcomes": [
+                "Enhanced visibility of IAC programs in low-urbanization zones",
+                "Creation of a verified database of 50,000+ skilled rural youth",
+                "Reduced underemployment by aligning skills with industrial demand"
+            ]
+        },
+        "Uttar Pradesh": {
+            "campaign_summary": "The 'UP Yuva Shakti Mission' leverages the state's massive 129.59% PMKVY enrollment rate and high youth density (828.0) to create a mass-scale industrial workforce. The campaign uses visual-first communication to cater to the 67.68% literacy rate across its vast rural landscape.",
+            "campaign_objective": "To execute a high-volume recruitment drive targeting the 27.63% youth demographic for large-scale industrial placement.",
+            "target_persona": "High Priority Rural Youth (Cluster 3)",
+            "campaign_priority": "High",
+            "communication_channels": [
+                "SMS",
+                "WhatsApp",
+                "Community Champions",
+                "Posters",
+                "Village Awareness Drives"
+            ],
+            "campaign_duration": "10 Weeks",
+            "communication_frequency": "Daily WhatsApp status updates; Weekly mass village drives.",
+            "campaign_phases": {
+                "phase_1": "Mass Outreach: Saturation of rural blocks with visual posters and SMS blasts highlighting the 129% PMKVY success as a stepping stone to IAC.",
+                "phase_2": "Validation: Community Champions verify skills and facilitate digital registrations in high-density clusters to minimize logistical friction.",
+                "phase_3": "Integration: Large-scale 'Industry Readiness' workshops conducted at the village level to prepare youth for formal sector roles."
+            },
+            "marketing_message": "UP ke har gaon se, ab industrial expert banenge yuva. IAC ke saath judiye, aur apne hunar ko badi company ki pehchan banaiye.",
+            "KPIs": [
+                "Total number of digital registrations",
+                "Density-based recruitment efficiency (sign-ups per sq km)",
+                "Retention rate in introductory IAC modules"
+            ],
+            "expected_outcomes": [
+                "Dominant awareness of IAC as the primary post-skilling platform",
+                "Mass enrollment of rural youth into industrial career tracks",
+                "Streamlined placement of high-density talent into industrial hubs"
+            ]
+        },
+        "West Bengal": {
+            "campaign_summary": "The 'Banglar Dakshata Abhiyan' utilizes West Bengal's high literacy (76.26%) and near-universal PMKVY certification (99.81%) to drive a digital-physical hybrid campaign. It focuses on upgrading foundational skills to industry-grade proficiency through cluster-based mobilization.",
+            "campaign_objective": "To transition the highly certified rural workforce (28.28% youth) into high-value industrial roles through advanced upskilling.",
+            "target_persona": "High Priority Rural Youth (Cluster 3)",
+            "campaign_priority": "High",
+            "communication_channels": [
+                "SMS",
+                "WhatsApp",
+                "Community Champions",
+                "Posters",
+                "Village Awareness Drives"
+            ],
+            "campaign_duration": "14 Weeks",
+            "communication_frequency": "Thrice weekly WhatsApp newsletters; Monthly cluster-based seminars.",
+            "campaign_phases": {
+                "phase_1": "Digital Literacy: Distributing detailed digital brochures and career roadmaps via WhatsApp to the literate rural population.",
+                "phase_2": "Cluster Mobilization: Leveraging the 1029.0 population density to hold intensive registration camps in every Gram Panchayat.",
+                "phase_3": "Industry Bridge: Specialized 'Certification to Career' seminars led by Community Champions to address the 2.6% unemployment gap."
+            },
+            "marketing_message": "Sarkari prashikshan toh mila, ab IAC ke saath paiye asli industrial career. Banglar yuva, ebar hobe unnati.",
+            "KPIs": [
+                "Engagement rate with digital career roadmaps",
+                "Number of PMKVY-certified youth completing IAC bridge courses",
+                "Geographical coverage of cluster-based mobilization camps"
+            ],
+            "expected_outcomes": [
+                "Successful conversion of certified youth into industry-ready professionals",
+                "High adoption of digital career tools among rural youth",
+                "Strengthened link between rural talent clusters and industrial employers"
+            ]
+        }
+    }
+}

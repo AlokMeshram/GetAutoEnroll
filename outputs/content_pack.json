@@ -1,0 +1,343 @@
+{
+    "generated_by": "ContentGenerationAgent",
+    "model": "gemini-3-flash-preview",
+    "language_note": "English only — regional language support planned for future version",
+    "state_count": 15,
+    "content": {
+        "Kerala": {
+            "language": "English",
+            "campaign_headline": "From Degrees to Dreams: Your Career Launchpad",
+            "campaign_slogan": "Beyond Literacy to Leadership",
+            "whatsapp_message": "High education deserves a high-growth career. Join IAC’s industry-integration modules to turn your certifications into global job opportunities. Register for our placement-linked workshops today and bridge the employment gap!",
+            "sms_message": "Turn your skills into a career. Join IAC’s placement workshops to bridge the employment gap. Enroll now for industry-ready success!",
+            "email": {
+                "subject": "Transform Your Degree into a Global Career with IAC",
+                "body": "You have the skills; now get the career you deserve. IAC’s specialized modules bridge the gap between your education and industry demands. Join 15,000 Kerala youth in our placement-linked workshops designed for high-growth roles. Secure your future today."
+            },
+            "poster_text": "Beyond Literacy to Leadership. Turn your certifications into a high-growth global career with IAC.",
+            "social_media_caption": "Don't let your certifications sit idle! 🎓 Join IAC to bridge the employment gap and lead in the global market. Register for our placement workshops today! 🚀",
+            "community_announcement": "Hello everyone. Many of our youth are highly educated but waiting for the right job. IAC is here to help you turn those certificates into a real career through special workshops. Come join us and move from literacy to leadership.",
+            "cta": "Register for Workshops",
+            "hashtags": [
+                "#KeralaCareers",
+                "#SkillToJob",
+                "#IACLeadership",
+                "#GlobalGrowth"
+            ],
+            "tone": "professional and empowering"
+        },
+        "Andhra Pradesh": {
+            "language": "English",
+            "campaign_headline": "Bridge the Gap to Your Dream Career",
+            "campaign_slogan": "From Rural Talent to Urban Success.",
+            "whatsapp_message": "Turn your local skills into a professional career! Join IAC to bridge the gap between rural talent and urban opportunities. Build a stronger foundation for your future today.",
+            "sms_message": "Upgrade your skills and bridge the gap to urban jobs. Join IAC today for a professional career foundation. Enroll now!",
+            "email": {
+                "subject": "Turn Your Skills Into a Professional Career",
+                "body": "Are you ready to take your rural talent to the next level? IAC helps you bridge the gap between local skills and urban opportunities. Build a stronger foundation for your future with our specialized training. Join us today and start your professional journey."
+            },
+            "poster_text": "Turn Rural Talent Into Urban Success. Join IAC for a Professional Career Foundation.",
+            "social_media_caption": "Bridge the gap between rural talent and urban opportunity! 🌉 Join IAC to build a professional career foundation today. 🚀",
+            "community_announcement": "Hello friends! Do you want to turn your skills into a better job? IAC is here to help our village youth get ready for big city careers. Come join us and build a stronger future!",
+            "cta": "Enroll Now",
+            "hashtags": [
+                "#IACAndhra",
+                "#RuralTalent",
+                "#CareerGrowth",
+                "#SkillUp"
+            ],
+            "tone": "encouraging and empowering"
+        },
+        "Assam": {
+            "language": "English",
+            "campaign_headline": "Lead the Digital Change from Your Village",
+            "campaign_slogan": "Empowering the Heart of Assam.",
+            "whatsapp_message": "Master modern industry and digital skills right from your village! Join IAC’s entrepreneurship programs and lead the change in your community. Start your journey toward success today.",
+            "sms_message": "Master digital and industry skills from your village. Join IAC entrepreneurship programs and lead the change in Assam. Register today!",
+            "email": {
+                "subject": "Master Modern Industry Skills From Your Village",
+                "body": "Empower the heart of Assam by mastering modern industry skills today. IAC offers digital and entrepreneurship programs designed for rural youth like you. Lead the change in your community without leaving home. Sign up now to start."
+            },
+            "poster_text": "Master Digital Skills in Your Village. Lead Assam’s Future with IAC Entrepreneurship.",
+            "social_media_caption": "Lead the change from your village! 🌿 Master digital and entrepreneurship skills with IAC. Empowering the heart of Assam, one student at a time. 💻",
+            "community_announcement": "Greetings everyone! You don't need to move to a big city to start a business. IAC is teaching digital skills right here in our village. Come learn how to lead the future of Assam!",
+            "cta": "Join Today",
+            "hashtags": [
+                "#AssamGrowth",
+                "#DigitalAssam",
+                "#VillageEntrepreneurs",
+                "#IAC"
+            ],
+            "tone": "visionary and local-focused"
+        },
+        "Gujarat": {
+            "language": "English",
+            "campaign_headline": "From Industrial Worker to Industry Leader",
+            "campaign_slogan": "Master the Standards of Global Management.",
+            "whatsapp_message": "You already have the job; now it’s time to lead! Master advanced technologies and global management standards with IAC’s premier certifications. Accelerate your career and become an industry leader today.",
+            "sms_message": "Take your career to the next level. Master advanced tech and global management with IAC certifications. Lead your industry. Enroll now!",
+            "email": {
+                "subject": "Advance Your Career with Global Industry Certifications",
+                "body": "You have the experience, now gain the leadership edge. IAC offers advanced technology and management modules for ambitious professionals in Gujarat. Master global standards and accelerate your career path today. Register now to secure your spot."
+            },
+            "poster_text": "Don't Just Work, Lead the Industry. Master Advanced Tech and Management with IAC.",
+            "social_media_caption": "Ready to lead the industry? 🏗️ Master advanced technologies and global management standards with IAC. Take your career to the next level today! 📈",
+            "community_announcement": "Hello! If you are already working in a factory or office, it is time to move up. IAC offers advanced training to help you become a manager. Come learn how to lead your industry!",
+            "cta": "Register Now",
+            "hashtags": [
+                "#GujaratIndustry",
+                "#CareerAcceleration",
+                "#TechLeadership",
+                "#IACGlobal"
+            ],
+            "tone": "aspirational and professional"
+        },
+        "Madhya Pradesh": {
+            "language": "English",
+            "campaign_headline": "Upgrade Your Hard Work into a Leadership Role",
+            "campaign_slogan": "From Labor to Leadership.",
+            "whatsapp_message": "Your hard work deserves better rewards! Transition from informal work to a formal industry role with IAC’s specialized career training. Upgrade your skills and start your leadership journey today.",
+            "sms_message": "Your hard work deserves better pay. Upgrade from labor to leadership with IAC’s specialized career training. Join today for a better future!",
+            "email": {
+                "subject": "Transition from Informal Work to a Professional Career",
+                "body": "Are you tired of low-value roles that don't reward your effort? IAC helps you transition into formal industry positions through targeted skill training. Upgrade from labor to leadership and earn the rewards you deserve. Join our program today."
+            },
+            "poster_text": "Your Hard Work Deserves Better Rewards. Upgrade from Labor to Leadership with IAC.",
+            "social_media_caption": "Turn your hard work into a professional career! 🛠️ Transition from informal labor to industry leadership with IAC training. You deserve better rewards! 🌟",
+            "community_announcement": "Listen closely, friends! Your hard work is valuable, but you deserve a better job with better pay. IAC will train you for formal roles in big industries. Let’s move from labor to leadership together!",
+            "cta": "Start Training",
+            "hashtags": [
+                "#MPGrowth",
+                "#LaborToLeadership",
+                "#CareerTraining",
+                "#IACSuccess"
+            ],
+            "tone": "motivating and dignity-focused"
+        },
+        "Odisha": {
+            "language": "English",
+            "campaign_headline": "Elevate Your PMKVY Skills",
+            "campaign_slogan": "From Training to Career",
+            "whatsapp_message": "Hello! Ready to take your PMKVY training further? Join IAC to bridge the gap between skills and high-paying jobs in Odisha. Let’s build your future together. Register today!",
+            "sms_message": "PMKVY certified? Upgrade your skills with IAC Odisha. Turn your training into a high-growth career today. Register now to secure your future!",
+            "email": {
+                "subject": "Upgrade Your PMKVY Skills for a High-Growth Career",
+                "body": "You have the training; now it is time for the career you deserve. IAC is helping Odisha’s youth transition from basic skilling to advanced industry roles. Join our career-readiness program to secure your livelihood locally. Register today to start your journey."
+            },
+            "poster_text": "Odisha’s Skill Revolution. Move beyond PMKVY. Join IAC for high-growth local careers today!",
+            "social_media_caption": "Take your PMKVY certification to the next level! 🚀 Join IAC Odisha to turn your skills into a sustainable, high-growth career. Register now! 💼",
+            "community_announcement": "Hello everyone! If you have completed PMKVY training, it is time for the next step. Join the Industry Academy Community to find real, high-paying jobs right here in Odisha. Come talk to us to register and start your career today!",
+            "cta": "Register Now",
+            "hashtags": [
+                "#SkillOdisha",
+                "#PMKVYUpgrade",
+                "#IAC",
+                "#CareerGrowth"
+            ],
+            "tone": "Professional and empowering"
+        },
+        "Rajasthan": {
+            "language": "English",
+            "campaign_headline": "Padho, Badho, Jeeto",
+            "campaign_slogan": "Simple Skills, Big Success",
+            "whatsapp_message": "Greetings! Ready for a better future? Join IAC Rajasthan for simple training programs designed to help you get a great job. Padho, Badho, Jeeto—start your journey with us today!",
+            "sms_message": "Rajasthan's youth, your success starts here! Join IAC for simple vocational training and better jobs. Padho, Badho, Jeeto with us today.",
+            "email": {
+                "subject": "Padho, Badho, Jeeto: Start Your Career Journey Today",
+                "body": "Rajasthan’s youth deserve a path to success through simple and effective training. IAC offers foundational programs to help you bridge the gap to better employability. Join us to learn the skills needed for a brighter future. Your journey from skill to success starts here."
+            },
+            "poster_text": "Padho, Badho, Jeeto! Simple training for Rajasthan’s youth. Join IAC for a better future.",
+            "social_media_caption": "Rajasthan’s youth, it’s time to shine! ✨ Join IAC for simple vocational training that leads to real success. Padho, Badho, Jeeto! 📖💪",
+            "community_announcement": "Listen up, friends! Do you want a better job and a brighter future? IAC is here with simple training programs for everyone. Let’s learn together and win together. Join us today and start your journey toward success!",
+            "cta": "Join Today",
+            "hashtags": [
+                "#RajasthanSkills",
+                "#PadhoBadhoJeeto",
+                "#IAC",
+                "#YouthSuccess"
+            ],
+            "tone": "Simple and encouraging"
+        },
+        "Telangana": {
+            "language": "English",
+            "campaign_headline": "Lead Telangana’s Innovation Wave",
+            "campaign_slogan": "Skills for the Future",
+            "whatsapp_message": "Hello! You have the skills, now get the career you want. Join IAC Telangana to master digital literacy and lead the next wave of industry innovation. Register now for a high-value future!",
+            "sms_message": "Empowering Telangana’s future! Upgrade your skills with IAC’s digital and innovation training. Secure a high-value industry role today. Join the revolution!",
+            "email": {
+                "subject": "Lead the Next Wave of Innovation in Telangana",
+                "body": "Telangana is growing, and you should be leading the way. IAC offers advanced digital literacy and innovation training to help you secure high-value industry roles. Don’t just find a job—build a career that shapes the future. Join our community and start your transformation today."
+            },
+            "poster_text": "Empowering Telangana’s Future. Master digital skills and lead industry innovation with IAC. Join now!",
+            "social_media_caption": "Ready to lead the innovation wave? 🌊 Join IAC Telangana to upgrade your digital skills and secure a high-value industry career. The future is yours! 🚀",
+            "community_announcement": "Hello everyone! Telangana is becoming a hub for new technology and industry. Are you ready to lead? Join IAC to learn digital skills and find high-value jobs in the newest industries. Let’s build a better future together for our state!",
+            "cta": "Sign Up Now",
+            "hashtags": [
+                "#TelanganaInnovation",
+                "#DigitalSkills",
+                "#IAC",
+                "#FutureCareers"
+            ],
+            "tone": "Aspirational and professional"
+        },
+        "Karnataka": {
+            "language": "English",
+            "campaign_headline": "Lead the Innovation Frontier",
+            "campaign_slogan": "Future-proof your tech career today.",
+            "whatsapp_message": "Ready to move beyond the routine? Lead Karnataka’s tech hub with IAC’s advanced innovation modules. Don’t just work in tech—shape its future. Join our elite circle now and secure your professional growth!",
+            "sms_message": "Don't just work in the tech hub—lead it. Future-proof your career with IAC’s advanced innovation modules. Register today for elite upskilling.",
+            "email": {
+                "subject": "Lead Karnataka’s Tech Hub with Advanced Innovation Modules",
+                "body": "The tech landscape is evolving rapidly, and staying ahead requires more than just basic skills. IAC offers exclusive innovation modules designed specifically for Karnataka’s elite urban workforce. Secure your career against stagnation and become a leader in the industry. Join us to future-proof your professional journey today."
+            },
+            "poster_text": "Lead the Tech Hub. Advanced Innovation Modules for Karnataka’s Elite Professionals.",
+            "social_media_caption": "Stop surviving the tech boom; start leading it. 🚀 Master advanced innovation with IAC and future-proof your career in Karnataka. #TechLeadership #Innovation #IAC #KarnatakaTech",
+            "community_announcement": "Hello everyone. We all know how fast the tech world changes. Don't just keep up; lead the way. Join IAC’s advanced modules to stay ahead and secure your future.",
+            "cta": "Apply for Innovation Modules",
+            "hashtags": [
+                "#KarnatakaTech",
+                "#FutureProof",
+                "#InnovationLeader",
+                "#IAC",
+                "#Upskill"
+            ],
+            "tone": "aspirational and professional"
+        },
+        "Maharashtra": {
+            "language": "English",
+            "campaign_headline": "Master the Industrial Evolution",
+            "campaign_slogan": "Achieve global excellence through specialized tracks.",
+            "whatsapp_message": "Elevate your career to a global standard. Maharashtra’s industries are evolving—are you? Master specialized tracks with IAC to ensure your skills match the world’s highest demands and avoid job mismatches.",
+            "sms_message": "Master the industrial evolution. Achieve global excellence with IAC’s specialized professional tracks in Maharashtra. Don't let your skills fall behind. Join now.",
+            "email": {
+                "subject": "Achieve Global Excellence with Specialized Career Tracks in Maharashtra",
+                "body": "Maharashtra’s urban workforce is the backbone of India’s industry, but global competition is rising. IAC provides specialized professional tracks to ensure your skills remain world-class. Avoid career-job mismatches by mastering the latest industrial evolutions. Take the next step toward global professional excellence today."
+            },
+            "poster_text": "Achieve Global Excellence. Specialized Professional Tracks for Maharashtra’s Urban Workforce.",
+            "social_media_caption": "Ready to compete on a global stage? 🌍 Master the evolution of industry with IAC’s specialized tracks in Maharashtra. #GlobalCareer #MaharashtraIndustry #IAC #ProfessionalGrowth",
+            "community_announcement": "Friends, the world is changing fast. To stay competitive, we need specialized skills. IAC is here to help you master new industry standards and reach global excellence.",
+            "cta": "Explore Specialized Tracks",
+            "hashtags": [
+                "#GlobalExcellence",
+                "#MaharashtraWorkforce",
+                "#CareerEvolution",
+                "#IAC",
+                "#SpecializedSkills"
+            ],
+            "tone": "sophisticated and ambitious"
+        },
+        "Tamil Nadu": {
+            "language": "English",
+            "campaign_headline": "Own the Industrial Future",
+            "campaign_slogan": "Beyond basics—into the exclusive professional network.",
+            "whatsapp_message": "You’ve mastered the basics; now it’s time to own the industry. Join Tamil Nadu’s most exclusive professional network and access advanced career labs designed for elite talent. Enhance your skills today!",
+            "sms_message": "Mastered the basics? Now own the industry. Join Tamil Nadu’s exclusive professional network with IAC’s advanced career labs. Elevate your status today.",
+            "email": {
+                "subject": "Join Tamil Nadu’s Most Exclusive Professional Network",
+                "body": "In a densely populated talent pool, standing out requires exclusive value and advanced skills. IAC’s career labs offer high-tier enhancement tailored for Tamil Nadu’s most ambitious professionals. Move beyond the basics and start owning your industry. Join our elite network to unlock your full potential."
+            },
+            "poster_text": "Own the Industry. Join Tamil Nadu’s Exclusive Professional Network and Advanced Career Labs.",
+            "social_media_caption": "You’ve mastered the basics, now lead the field. 🏆 Join Tamil Nadu’s most exclusive professional network with IAC’s advanced career labs. #EliteNetwork #TamilNaduTalent #IAC #CareerLabs",
+            "community_announcement": "You have worked hard to learn the basics. Now, it is time to become a leader. Join our exclusive professional network to gain the advanced skills you deserve.",
+            "cta": "Join the Exclusive Network",
+            "hashtags": [
+                "#TamilNaduElite",
+                "#CareerLabs",
+                "#IndustryLeaders",
+                "#IAC",
+                "#AdvancedSkills"
+            ],
+            "tone": "exclusive and authoritative"
+        },
+        "Bihar": {
+            "language": "English",
+            "campaign_headline": "Skill Your Way to Success in Bihar",
+            "campaign_slogan": "Your Skills, Your Identity, Your Village",
+            "whatsapp_message": "Hello Bihar! Ready to turn your basic skills into a professional career? Join IAC to get industry-certified and find great jobs right in your district. Start your journey today!",
+            "sms_message": "Bihar youth! Turn your PMKVY training into a career. Join IAC for industry-ready skills and local job opportunities. Register today!",
+            "email": {
+                "subject": "From Training to Career: New Opportunities for Bihar Youth",
+                "body": "Did you complete PMKVY training? IAC is here to help you get industry-ready certifications for better jobs. Join our foundational programs and build your career without leaving your roots. Register now to secure your future."
+            },
+            "poster_text": "Bihar Youth: Get Industry-Ready Skills and Local Jobs with IAC. Enroll Now!",
+            "social_media_caption": "Empowering Bihar’s youth with skills that matter! Transform your PMKVY training into a professional career today. 🚀 #BiharSkills #IAC #RuralJobs #SkillIndia",
+            "community_announcement": "Listen up, young friends! You have the talent, now get the skills. Join IAC to become industry-ready and find good work right here in our area. Visit the center today.",
+            "cta": "Register Now",
+            "hashtags": [
+                "#BiharSkills",
+                "#IAC",
+                "#RuralJobs",
+                "#SkillIndia"
+            ],
+            "tone": "encouraging and community-focused"
+        },
+        "Jharkhand": {
+            "language": "English",
+            "campaign_headline": "Elevate Your Career in Jharkhand",
+            "campaign_slogan": "Master Industry Skills, Become Self-Reliant",
+            "whatsapp_message": "Brave youth of Jharkhand, it’s time to fly higher! Transition from basic training to advanced industry roles with IAC’s specialized career tracks. Start your journey towards a better future today!",
+            "sms_message": "Jharkhand youth! Take your vocational skills to the next level. Join IAC for advanced industry training and specialized career roles. Apply now!",
+            "email": {
+                "subject": "Advanced Career Tracks for Jharkhand’s Vocational Graduates",
+                "body": "Your vocational training was just the start. IAC offers specialized industry courses to help you secure high-value roles. Become self-reliant and lead the way in Jharkhand’s workforce. Join our advanced track today."
+            },
+            "poster_text": "Jharkhand Youth: Master Advanced Industry Skills. Build a Specialized Career with IAC.",
+            "social_media_caption": "Jharkhand’s brave youth, give your skills wings! Transition to advanced industry roles with IAC’s specialized training programs. 🦅 #JharkhandYouth #CareerGrowth #Atmanirbhar #SkillUp",
+            "community_announcement": "Greetings to the youth of Jharkhand! Don't stop at basic training. Join IAC to learn advanced skills that industries want and become truly self-reliant. Come talk to us to learn more.",
+            "cta": "Apply Today",
+            "hashtags": [
+                "#JharkhandYouth",
+                "#CareerGrowth",
+                "#Atmanirbhar",
+                "#SkillUp"
+            ],
+            "tone": "bold and aspirational"
+        },
+        "Uttar Pradesh": {
+            "language": "English",
+            "campaign_headline": "Leading the Future of Rural UP",
+            "campaign_slogan": "World-Class Training for Every Village Leader",
+            "whatsapp_message": "Every village in UP will produce tomorrow's leaders! Join IAC’s digital ecosystem to access world-class training and secure better job opportunities. Your professional career starts right here in your village!",
+            "sms_message": "UP youth! Become a leader in your village. Join IAC for world-class digital training and top-tier job opportunities. Register now!",
+            "email": {
+                "subject": "World-Class Career Training for the Youth of Uttar Pradesh",
+                "body": "IAC is building a digital ecosystem for your career advancement. Access high-quality training and better job opportunities from your own village. Join 150,000 youth leading UP's future. Sign up for world-class training today."
+            },
+            "poster_text": "UP Youth: Join the Digital Revolution. Get World-Class Training and Better Jobs.",
+            "social_media_caption": "UP’s next generation of leaders is rising! Join IAC for world-class training and career advancement from your own village. 🌟 #UPRising #DigitalSkills #VillageLeaders #IAC",
+            "community_announcement": "Attention youth of UP! You can now get world-class training right from your village. Join IAC today to become a leader and find a better job. Your future starts here.",
+            "cta": "Join the Ecosystem",
+            "hashtags": [
+                "#UPRising",
+                "#DigitalSkills",
+                "#VillageLeaders",
+                "#IAC"
+            ],
+            "tone": "professional and large-scale"
+        },
+        "West Bengal": {
+            "language": "English",
+            "campaign_headline": "Build Your Future in West Bengal",
+            "campaign_slogan": "Stand Strong, Stay Close to Home",
+            "whatsapp_message": "Youth of Bengal, it’s time to be self-reliant! Join IAC for high-value skills and entrepreneurship training. Build a bright future while staying close to your roots and your community.",
+            "sms_message": "Bengal youth! Stand on your own feet. Join IAC for entrepreneurship and high-value skill tracks. Build your future near home. Apply today!",
+            "email": {
+                "subject": "Entrepreneurship and High-Value Skills for Bengal's Youth",
+                "body": "Take your PMKVY experience to the next level with IAC. We offer high-value skill tracks and entrepreneurship training designed for your success. Build your own future and stay close to home. Start your journey today."
+            },
+            "poster_text": "Bengal Youth: Master High-Value Skills. Start Your Own Journey with IAC.",
+            "social_media_caption": "Bengal’s youth are standing tall! Master high-value skills and entrepreneurship with IAC to build a future near your home. 🌾 #BanglarYuva #SelfReliant #Entrepreneurship #IAC",
+            "community_announcement": "Young people of Bengal, it is time to stand on your own feet. Join IAC to learn high-value skills and start your own path near home. Visit us to start your own business.",
+            "cta": "Start Your Journey",
+            "hashtags": [
+                "#BanglarYuva",
+                "#SelfReliant",
+                "#Entrepreneurship",
+                "#IAC"
+            ],
+            "tone": "empowering and visionary"
+        }
+    },
+    "reviewed_and_corrected": true,
+    "correction_notes": "Hashtag '#' prefix normalized for Bihar, Jharkhand, Uttar Pradesh, West Bengal for consistency. No content text was altered."
+}
